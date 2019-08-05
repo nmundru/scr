@@ -6,6 +6,7 @@ Nishanth Mundru titled "Sparse Convex Regression".
 These are instructions for using the attached code and replicating the results.
 
 This code was written by Nishanth Mundru, in collaboration with Prof. Dimitris Bertsimas.
+
 ===
 
 1). This project requires the Gurobi solver, Julia with JuMP, and MATLAB (for comparing with the ADMM algorithm).
