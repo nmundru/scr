@@ -9,13 +9,13 @@ This code was written by Nishanth Mundru, in collaboration with Prof. Dimitris B
 
 ===
 
-1). This project requires the Gurobi solver, Julia with JuMP, and MATLAB (for comparing with the ADMM algorithm).
+1). This project requires the Gurobi solver, and is mostly written in Julia with JuMP.
 
 2). There are two zip files.
 
 	a). Codes.zip file contains files with Julia and MATLAB code, and
 
-	b). Test_Instances.zip file (download link on the github page) contains test instances.
+	b). Test_Instances.zip file (download link https://tinyurl.com/yyz3rvub) contains test instances.
 
 3). Details of files in Codes.zip:
 
