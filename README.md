@@ -1,6 +1,5 @@
 # scr
 
-===
 The code implements the ideas outlined in the manuscript by Dimitris Bertsimas and 
 Nishanth Mundru titled "Sparse Convex Regression".
 
@@ -58,3 +57,5 @@ sparse_create_data.jl
 a. sparse-dual.zip : Contains sparse instances used for testing the dual approach.
 
 b. sparse-primal.zip: Contains sparse instances used for testing the primal approach.
+
+
