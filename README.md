@@ -15,7 +15,7 @@ This code was written by Nishanth Mundru, in collaboration with Prof. Dimitris B
 
 	a). Codes.zip file contains files with Julia and MATLAB code, and
 
-	b). Test_Instances.zip file (download link https://tinyurl.com/yyz3rvub) contains test instances.
+	b). Test_Instances.zip file (Dropbox download link: https://tinyurl.com/yyz3rvub) contains test instances.
 
 3). Details of files in Codes.zip:
 
@@ -41,7 +41,6 @@ This code was written by Nishanth Mundru, in collaboration with Prof. Dimitris B
 	i). Various function files:
 		functions.jl 
 		function_sparse_cuttingplane.jl
-		function_sparse_MIObigM.jl
 		function_sparse_MIObigM_LARGE.jl
 
 	j). Code for generating sparse data:
